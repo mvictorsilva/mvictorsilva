@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi eu sou Victor Manoel estudante de programação 👋
 - 🧑‍🎓Desenvolvimento de Sistemas
 - 📘Python Fluente
 
