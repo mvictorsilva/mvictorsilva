@@ -1,7 +1,6 @@
 <h1 align="center">Oi eu sou o Victor Manoel estudante de programação 🖖</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FFFFFF&center=falso&vCenter=falso&lines=-+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FFFFFF&center=falso&vCenter=falso&lines=-+%F0%9F%93%98Python+Fluente)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FFFFFF&center=falso&vCenter=falso&multiline=true&lines=-+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93Desenvolvimento+de+Sistemas;-+%F0%9F%93%98Python+Fluente)](https://git.io/typing-svg)
 
 ### Estou aprendendo
 
