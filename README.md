@@ -3,6 +3,8 @@
 - 🧑‍🎓Desenvolvimento de Sistemas
 - 📘Python Fluente
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1B8C17&center=falso&vCenter=falso&lines=-+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93Desenvolvimento+de+Sistemas+;-+%F0%9F%93%98Python+Fluente)](https://git.io/typing-svg)
+
 ### Estou aprendendo
 
 
