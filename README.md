@@ -5,7 +5,17 @@
 ### Estou aprendendo
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mvictorsilva"><img src="https://github-readme-stats.vercel.app/api?username=mvictorsilva&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="mvictorsilva's GitHub stats" /></a>
+
+<a href="http://www.github.com/mvictorsilva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvictorsilva&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/mvictorsilva"><img src="https://activity-graph.herokuapp.com/graph?username=mvictorsilva&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
                   
 ![Snake animation](https://github.com/mvictorsilva/mvictorsilva/blob/output/github-contribution-grid-snake.svg)
 
