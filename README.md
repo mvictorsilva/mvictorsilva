@@ -4,16 +4,7 @@
 
 ### Estou aprendendo
 
-<style type="text/css">
-    .icons {
-        display: block;
-        margin-top: 20px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-
-<div class="icons">
+<div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
